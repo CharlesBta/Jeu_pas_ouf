@@ -1,5 +1,4 @@
 énoncé : le jeu pas ouf
 
-1 essai, choisissez un nombre entre 1 et 6. Si le nombre obtenu est inférieur au nombre choisi, c'est gagné.
-Devinerez vous le nombre ?
-(aucune inspi, bon divertissement mdr...)
+choisissez un nombre entre 1 et 6. Si le nombre obtenu est inférieur au nombre choisi, c'est gagné.
+faire une fonction recursive pour que le joueur joue jusqu'a victoire.
